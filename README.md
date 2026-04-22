@@ -11,7 +11,7 @@ This is a vendor oversight that accompanies IRS Written Information Security Pla
 
 ## What This Is
 
-This repository contains the vendor oversight framework I developed for a client undergoing an IRS WISP compliance engagement. The deliverable inventories every third-party platform the firm uses, maps the data types each vendor touches, documents security certifications and contractual safeguards, and establishes a repeatable review cadence.
+This repository contains the vendor oversight framework I developed for a client undergoing an IRS WISP compliance engagement. The deliverable inventories every third-party platform the firm uses, maps the data types each vendor touches, documents security certifications and contractual safeguards, and establishes a repeatable review schedule.
 
 The output is a structured set of **Vendor Oversight Sheets** — one per vendor — plus a combined master sheet suitable for inclusion in the client's WISP appendix or provided to auditors on request.
 
