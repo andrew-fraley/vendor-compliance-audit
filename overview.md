@@ -80,7 +80,7 @@ Specifies the recommended review schedule for each vendor (annual vs. quarterly 
 
 ## Review Schedule
 
-| Cadence | Vendors |
+| Schedule | Vendors |
 |---|---|
 | Quarterly | Bitwarden (vault user access review) |
 | Annual | All others |
